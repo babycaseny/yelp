@@ -94,7 +94,7 @@ msgstr "Den begärda sidan hittades inte i dokumentet ”%s”."
 
 #: ../libyelp/yelp-document.c:266
 msgid "Indexed"
-msgstr "Indexerat"
+msgstr "Indeksen"
 
 #: ../libyelp/yelp-document.c:267
 msgid "Whether the document content has been indexed"
