@@ -50,7 +50,7 @@ msgstr "Inte tillräckligt med minne"
 #: ../libyelp/yelp-mallard-document.c:456 ../libyelp/yelp-man-document.c:281
 #, c-format
 msgid "The page ‘%s’ was not found in the document ‘%s’."
-msgstr "Sidan ”%s” hittades inte i dokumentet ”%s”."
+msgstr "Nigè peij ”%s” wa not fainden in dokyumènt ”%s”."
 
 #: ../libyelp/yelp-docbook-document.c:332 ../libyelp/yelp-info-document.c:371
 #: ../libyelp/yelp-man-document.c:416
