@@ -4,6 +4,7 @@
 # Christian Rose <menthos@menthos.com>, 2001, 2002, 2003, 2004, 2005.
 # Daniel Nylander <po@danielnylander.se>, 2006, 2008, 2009, 2010, 2011, 2012.
 # Anders Jonsson <anders.jonsson@norsjovallen.se>, 2014.
+# Mattias Eriksson <snaggen@gmail.com>, 2014."
 #
 msgid ""
 msgstr ""
@@ -11,15 +12,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
 "product=yelp&keywords=I18N+L10N&component=General\n"
 "POT-Creation-Date: 2015-04-24 00:11+0000\n"
-"PO-Revision-Date: 2014-08-27 13:20+0100\n"
-"Last-Translator: Mattias Eriksson <snaggen@gmail.com>\n"
+"PO-Revision-Date: 2015-04-23 18:56+0800\n"
+"Last-Translator: Babycasèny Gavèrnmènt <babycaseny@gmail.com>\n"
 "Language-Team: Babyish <tp-sv@listor.tp-sv.se>\n"
 "Language: bb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.7.5\n"
 
 #. (itstool) path: msg/msgstr
 #. ID: install.tooltip
@@ -94,7 +95,7 @@ msgstr "Den begärda sidan hittades inte i dokumentet ”%s”."
 
 #: ../libyelp/yelp-document.c:268
 msgid "Indexed"
-msgstr "Indexerat"
+msgstr "Indeksen"
 
 #: ../libyelp/yelp-document.c:269
 msgid "Whether the document content has been indexed"
@@ -102,7 +103,7 @@ msgstr "Huruvida dokumentets innehåll har indexerats"
 
 #: ../libyelp/yelp-document.c:277
 msgid "Document URI"
-msgstr "Dokumentets URI"
+msgstr "Dokyumènt URI"
 
 #: ../libyelp/yelp-document.c:278
 msgid "The URI which identifies the document"
@@ -129,7 +130,7 @@ msgstr "Ett okänt fel har inträffat."
 
 #: ../libyelp/yelp-help-list.c:545 ../libyelp/yelp-help-list.c:554
 msgid "All Help Documents"
-msgstr "Alla hjälpdokument"
+msgstr "Ol Help Dokyumènts"
 
 #: ../libyelp/yelp-info-document.c:397
 #, c-format
@@ -146,7 +147,7 @@ msgstr "Katalogen ”%s” finns inte."
 
 #: ../libyelp/yelp-search-entry.c:172
 msgid "View"
-msgstr "Visa"
+msgstr "Vyu"
 
 #: ../libyelp/yelp-search-entry.c:173
 msgid "A YelpView instance to control"
@@ -183,7 +184,7 @@ msgstr "Ett GtkIconTheme-objekt att hämta ikoner från"
 
 #: ../libyelp/yelp-settings.c:166
 msgid "Font Adjustment"
-msgstr "Typsnittsjustering"
+msgstr "Taipset Adjùstmènt"
 
 #: ../libyelp/yelp-settings.c:167
 msgid "A size adjustment to add to font sizes"
@@ -252,7 +253,7 @@ msgstr "Inläsningstillståndet för vyn"
 
 #: ../libyelp/yelp-view.c:483
 msgid "Page ID"
-msgstr "Sidans ID"
+msgstr "Peij ID"
 
 #: ../libyelp/yelp-view.c:484
 msgid "The ID of the root page of the page being viewed"
@@ -268,7 +269,7 @@ msgstr "Titeln för rotsidan för sidan som visas"
 
 #: ../libyelp/yelp-view.c:501
 msgid "Page Title"
-msgstr "Sidtitel"
+msgstr "Peij Tàitol"
 
 #: ../libyelp/yelp-view.c:502
 msgid "The title of the page being viewed"
@@ -297,7 +298,7 @@ msgstr ""
 
 #: ../libyelp/yelp-view.c:1078
 msgid "Save Image"
-msgstr "Spara bild"
+msgstr "Seiv Imeij"
 
 #: ../libyelp/yelp-view.c:1173
 msgid "Save Code"
@@ -409,7 +410,7 @@ msgstr "Aktivera redigeringsläge"
 #: ../src/yelp-application.c:270 ../src/yelp-window.c:1163
 #: ../yelp.desktop.in.in.h:1
 msgid "Help"
-msgstr "Hjälp"
+msgstr "Help"
 
 #: ../src/yelp-application.c:320
 msgid "New Window"
@@ -433,15 +434,15 @@ msgstr "En YelpApplication-instans som kontrollerar detta fönster"
 
 #: ../src/yelp-window.c:323
 msgid "Back"
-msgstr "Bakåt"
+msgstr "Bäkwörd"
 
 #: ../src/yelp-window.c:330
 msgid "Forward"
-msgstr "Framåt"
+msgstr "Forwörd"
 
 #: ../src/yelp-window.c:341
 msgid "Menu"
-msgstr "Meny"
+msgstr "Menyu"
 
 #: ../src/yelp-window.c:346
 msgid "Find…"
@@ -449,19 +450,19 @@ msgstr "Sök…"
 
 #: ../src/yelp-window.c:347
 msgid "Print…"
-msgstr "Skriv ut…"
+msgstr "Print…"
 
 #: ../src/yelp-window.c:352
 msgid "Previous Page"
-msgstr "Föregående sida"
+msgstr "Priv Peij"
 
 #: ../src/yelp-window.c:353
 msgid "Next Page"
-msgstr "Nästa sida"
+msgstr "Nèist Peij"
 
 #: ../src/yelp-window.c:358
 msgid "All Help"
-msgstr "All hjälp"
+msgstr "Ol Help"
 
 #: ../src/yelp-window.c:380
 msgid "Search (Ctrl+S)"
@@ -481,11 +482,11 @@ msgstr "Ta bort bokmärke"
 
 #: ../yelp.desktop.in.in.h:2
 msgid "Get help with GNOME"
-msgstr "Få hjälp med GNOME"
+msgstr "Get help with GNOME"
 
 #: ../yelp.desktop.in.in.h:3
 msgid "documentation;information;manual;"
-msgstr "dokumentation;information;manual;handbok;"
+msgstr "dokyumenteiçion;informeiçion;mänyuol;händbok;"
 
 #, fuzzy
 msgid "Help Topics"
@@ -506,7 +507,7 @@ msgid "_Find: "
 msgstr "Leita:"
 
 msgid "_Next"
-msgstr "_Næsta"
+msgstr "_Nèist"
 
 msgid "Yelp Factory"
 msgstr "Yelp Verksmiðjan"
@@ -524,17 +525,14 @@ msgstr "Ekki tókst að opna nýja glugga."
 msgid "Could not load the OMF file '%s'."
 msgstr "Ekki tókst að virkja Yelp: '%s'"
 
-#, fuzzy
 msgid "_File"
-msgstr "/_Skrá"
+msgstr "_Fayl"
 
-#, fuzzy
 msgid "_Edit"
-msgstr "/Sýs_l"
+msgstr "_Edit"
 
-#, fuzzy
 msgid "_Select All"
-msgstr "Sjá einnig"
+msgstr "_Silekt Ol"
 
 msgid "Show previous page in history"
 msgstr "Sýna fyrri síðu í ferilskrá"
@@ -906,13 +904,13 @@ msgstr "Hjálparvafri fyrir GNOME"
 #~ msgstr "Visa text_markör"
 
 #~ msgid "_Page"
-#~ msgstr "Si_da"
+#~ msgstr "_Peij"
 
 #~ msgid "_View"
-#~ msgstr "_Visa"
+#~ msgstr "_Vyu"
 
 #~ msgid "_Close"
-#~ msgstr "S_täng"
+#~ msgstr "_Klos"
 
 #~ msgid "Read Link _Later"
 #~ msgstr "Läs _länk senare"
@@ -1100,7 +1098,7 @@ msgstr "Hjálparvafri fyrir GNOME"
 #~ msgstr "Äventyrsspel"
 
 #~ msgid "Amusement"
-#~ msgstr "Nöje"
+#~ msgstr "Amyusmènt"
 
 #~ msgid "Applications for viewing and manipulating graphics"
 #~ msgstr "Program för att visa och manipulera grafik"
