@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: yelp\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
 "product=yelp&keywords=I18N+L10N&component=General\n"
-"POT-Creation-Date: 2014-08-27 10:59+0000\n"
+"POT-Creation-Date: 2015-04-24 00:11+0000\n"
 "PO-Revision-Date: 2014-08-27 13:20+0100\n"
 "Last-Translator: Mattias Eriksson <snaggen@gmail.com>\n"
 "Language-Team: Babyish <tp-sv@listor.tp-sv.se>\n"
@@ -35,36 +35,36 @@ msgstr ""
 msgid "Install <string/>"
 msgstr "Instol <string/>"
 
-#: ../libyelp/yelp-bz2-decompressor.c:144
-#: ../libyelp/yelp-lzma-decompressor.c:153
+#: ../libyelp/yelp-bz2-decompressor.c:143
+#: ../libyelp/yelp-lzma-decompressor.c:152
 msgid "Invalid compressed data"
 msgstr "Invälid kompressen deita"
 
-#: ../libyelp/yelp-bz2-decompressor.c:150
-#: ../libyelp/yelp-lzma-decompressor.c:159
+#: ../libyelp/yelp-bz2-decompressor.c:149
+#: ../libyelp/yelp-lzma-decompressor.c:158
 msgid "Not enough memory"
 msgstr "Inte tillräckligt med minne"
 
-#: ../libyelp/yelp-docbook-document.c:297 ../libyelp/yelp-info-document.c:237
-#: ../libyelp/yelp-mallard-document.c:305
-#: ../libyelp/yelp-mallard-document.c:456 ../libyelp/yelp-man-document.c:281
+#: ../libyelp/yelp-docbook-document.c:295 ../libyelp/yelp-info-document.c:235
+#: ../libyelp/yelp-mallard-document.c:304
+#: ../libyelp/yelp-mallard-document.c:458 ../libyelp/yelp-man-document.c:279
 #, c-format
 msgid "The page ‘%s’ was not found in the document ‘%s’."
 msgstr "Nigè peij ”%s” wa not fainden in dokyumènt ”%s”."
 
-#: ../libyelp/yelp-docbook-document.c:332 ../libyelp/yelp-info-document.c:371
-#: ../libyelp/yelp-man-document.c:416
+#: ../libyelp/yelp-docbook-document.c:333 ../libyelp/yelp-info-document.c:372
+#: ../libyelp/yelp-man-document.c:417
 #, c-format
 msgid "The file does not exist."
 msgstr "Filen finns inte."
 
-#: ../libyelp/yelp-docbook-document.c:342 ../libyelp/yelp-info-document.c:381
-#: ../libyelp/yelp-man-document.c:426
+#: ../libyelp/yelp-docbook-document.c:343 ../libyelp/yelp-info-document.c:382
+#: ../libyelp/yelp-man-document.c:427
 #, c-format
 msgid "The file ‘%s’ does not exist."
 msgstr "Filen ”%s” finns inte."
 
-#: ../libyelp/yelp-docbook-document.c:357
+#: ../libyelp/yelp-docbook-document.c:358
 #, c-format
 msgid ""
 "The file ‘%s’ could not be parsed because it is not a well-formed XML "
@@ -73,7 +73,7 @@ msgstr ""
 "Filen ”%s” kunde inte tolkas därför att den inte är ett korrekt formaterat "
 "XML-dokument."
 
-#: ../libyelp/yelp-docbook-document.c:370
+#: ../libyelp/yelp-docbook-document.c:371
 #, c-format
 msgid ""
 "The file ‘%s’ could not be parsed because one or more of its included files "
@@ -82,43 +82,43 @@ msgstr ""
 "Filen ”%s” kunde inte tolkas därför att en eller flera av dess inkluderade "
 "filer inte är korrekt formaterade XML-dokument."
 
-#: ../libyelp/yelp-docbook-document.c:803
+#: ../libyelp/yelp-docbook-document.c:801
 msgid "Unknown"
 msgstr "Okänd"
 
-#: ../libyelp/yelp-docbook-document.c:864 ../libyelp/yelp-info-document.c:314
-#: ../libyelp/yelp-man-document.c:358
+#: ../libyelp/yelp-docbook-document.c:862 ../libyelp/yelp-info-document.c:315
+#: ../libyelp/yelp-man-document.c:359
 #, c-format
 msgid "The requested page was not found in the document ‘%s’."
 msgstr "Den begärda sidan hittades inte i dokumentet ”%s”."
 
-#: ../libyelp/yelp-document.c:266
+#: ../libyelp/yelp-document.c:268
 msgid "Indexed"
 msgstr "Indexerat"
 
-#: ../libyelp/yelp-document.c:267
+#: ../libyelp/yelp-document.c:269
 msgid "Whether the document content has been indexed"
 msgstr "Huruvida dokumentets innehåll har indexerats"
 
-#: ../libyelp/yelp-document.c:275
+#: ../libyelp/yelp-document.c:277
 msgid "Document URI"
 msgstr "Dokumentets URI"
 
-#: ../libyelp/yelp-document.c:276
+#: ../libyelp/yelp-document.c:278
 msgid "The URI which identifies the document"
 msgstr "URI:n som identifierar dokumentet"
 
-#: ../libyelp/yelp-document.c:992
+#: ../libyelp/yelp-document.c:996
 #, c-format
 msgid "Search results for “%s”"
 msgstr "Sökresultat för ”%s”"
 
-#: ../libyelp/yelp-document.c:1004
+#: ../libyelp/yelp-document.c:1008
 #, c-format
 msgid "No matching help pages found in “%s”."
 msgstr "Inga matchande hjälpsidor hittades i ”%s”."
 
-#: ../libyelp/yelp-document.c:1010
+#: ../libyelp/yelp-document.c:1014
 msgid "No matching help pages found."
 msgstr "Inga matchande hjälpsidor hittades."
 
@@ -127,11 +127,11 @@ msgstr "Inga matchande hjälpsidor hittades."
 msgid "An unknown error occurred."
 msgstr "Ett okänt fel har inträffat."
 
-#: ../libyelp/yelp-help-list.c:546 ../libyelp/yelp-help-list.c:555
+#: ../libyelp/yelp-help-list.c:545 ../libyelp/yelp-help-list.c:554
 msgid "All Help Documents"
 msgstr "Alla hjälpdokument"
 
-#: ../libyelp/yelp-info-document.c:396
+#: ../libyelp/yelp-info-document.c:397
 #, c-format
 msgid ""
 "The file ‘%s’ could not be parsed because it is not a well-formed info page."
@@ -139,270 +139,265 @@ msgstr ""
 "Filen ”%s” kunde inte tolkas därför att den inte är en korrekt formaterad "
 "infosida."
 
-#: ../libyelp/yelp-mallard-document.c:344
+#: ../libyelp/yelp-mallard-document.c:346
 #, c-format
 msgid "The directory ‘%s’ does not exist."
 msgstr "Katalogen ”%s” finns inte."
 
-#: ../libyelp/yelp-search-entry.c:173
+#: ../libyelp/yelp-search-entry.c:172
 msgid "View"
 msgstr "Visa"
 
-#: ../libyelp/yelp-search-entry.c:174
+#: ../libyelp/yelp-search-entry.c:173
 msgid "A YelpView instance to control"
 msgstr "En YelpView-instans att kontrollera"
 
-#: ../libyelp/yelp-search-entry.c:189 ../src/yelp-window.c:397
+#: ../libyelp/yelp-search-entry.c:188 ../src/yelp-window.c:397
 msgid "Bookmarks"
 msgstr "Bokmärken"
 
-#: ../libyelp/yelp-search-entry.c:190
+#: ../libyelp/yelp-search-entry.c:189
 msgid "A YelpBookmarks implementation instance"
 msgstr "En instans för YelpBookmarks-implementation"
 
-#: ../libyelp/yelp-search-entry.c:440
+#: ../libyelp/yelp-search-entry.c:433
 #, c-format
 msgid "Search for “%s”"
 msgstr "Sök efter ”%s”"
 
-#: ../libyelp/yelp-settings.c:152
+#: ../libyelp/yelp-settings.c:148
 msgid "GtkSettings"
 msgstr "GtkSettings"
 
-#: ../libyelp/yelp-settings.c:153
+#: ../libyelp/yelp-settings.c:149
 msgid "A GtkSettings object to get settings from"
 msgstr "Ett GtkSettings-objekt att hämta inställningar från"
 
-#: ../libyelp/yelp-settings.c:161
+#: ../libyelp/yelp-settings.c:157
 msgid "GtkIconTheme"
 msgstr "GtkIconTheme"
 
-#: ../libyelp/yelp-settings.c:162
+#: ../libyelp/yelp-settings.c:158
 msgid "A GtkIconTheme object to get icons from"
 msgstr "Ett GtkIconTheme-objekt att hämta ikoner från"
 
-#: ../libyelp/yelp-settings.c:170
+#: ../libyelp/yelp-settings.c:166
 msgid "Font Adjustment"
 msgstr "Typsnittsjustering"
 
-#: ../libyelp/yelp-settings.c:171
+#: ../libyelp/yelp-settings.c:167
 msgid "A size adjustment to add to font sizes"
 msgstr "En storleksjustering att lägga till i typsnittsstorlekar"
 
-#: ../libyelp/yelp-settings.c:179
+#: ../libyelp/yelp-settings.c:175
 msgid "Show Text Cursor"
 msgstr "Visa textmarkör"
 
-#: ../libyelp/yelp-settings.c:180
+#: ../libyelp/yelp-settings.c:176
 msgid "Show the text cursor or caret for accessible navigation"
 msgstr "Visa textmarkören för hjälpmedelsnavigering"
 
-#: ../libyelp/yelp-settings.c:188
+#: ../libyelp/yelp-settings.c:184
 msgid "Editor Mode"
 msgstr "Redigeringsläge"
 
-#: ../libyelp/yelp-settings.c:189
+#: ../libyelp/yelp-settings.c:185
 msgid "Enable features useful to editors"
 msgstr "Aktivera funktioner användbara för redigerare"
 
-#: ../libyelp/yelp-sqlite-storage.c:147
+#: ../libyelp/yelp-sqlite-storage.c:145
 msgid "Database filename"
 msgstr "Databasens filnamn"
 
-#: ../libyelp/yelp-sqlite-storage.c:148
+#: ../libyelp/yelp-sqlite-storage.c:146
 msgid "The filename of the sqlite database"
 msgstr "Filnamnet för sqlite-databasen"
 
-#: ../libyelp/yelp-transform.c:169
+#: ../libyelp/yelp-transform.c:164
 msgid "XSLT Stylesheet"
 msgstr "XSLT-stilmall"
 
-#: ../libyelp/yelp-transform.c:170
+#: ../libyelp/yelp-transform.c:165
 msgid "The location of the XSLT stylesheet"
 msgstr "Platsen för XSLT-stilmallen"
 
-#: ../libyelp/yelp-transform.c:378 ../libyelp/yelp-transform.c:393
+#: ../libyelp/yelp-transform.c:369 ../libyelp/yelp-transform.c:384
 #, c-format
 msgid "The XSLT stylesheet ‘%s’ is either missing or not valid."
 msgstr "XSLT-stilmallen ”%s” antingen saknas eller är inte giltig."
 
-#: ../libyelp/yelp-transform.c:527
+#: ../libyelp/yelp-transform.c:518
 msgid "No href attribute found on yelp:document\n"
 msgstr "Inget href-attribut hittat på yelp:document\n"
 
-#: ../libyelp/yelp-transform.c:542
+#: ../libyelp/yelp-transform.c:533
 msgid "Out of memory"
 msgstr "Slut på minne"
 
-#: ../libyelp/yelp-view.c:446
+#: ../libyelp/yelp-view.c:464
 msgid "Yelp URI"
 msgstr "Yelp-URI"
 
-#: ../libyelp/yelp-view.c:447
+#: ../libyelp/yelp-view.c:465
 msgid "A YelpUri with the current location"
 msgstr "En YelpUri med den aktuella platsen"
 
-#: ../libyelp/yelp-view.c:455
+#: ../libyelp/yelp-view.c:473
 msgid "Loading State"
 msgstr "Inläsningstillstånd"
 
-#: ../libyelp/yelp-view.c:456
+#: ../libyelp/yelp-view.c:474
 msgid "The loading state of the view"
 msgstr "Inläsningstillståndet för vyn"
 
-#: ../libyelp/yelp-view.c:465
+#: ../libyelp/yelp-view.c:483
 msgid "Page ID"
 msgstr "Sidans ID"
 
-#: ../libyelp/yelp-view.c:466
+#: ../libyelp/yelp-view.c:484
 msgid "The ID of the root page of the page being viewed"
 msgstr "ID för rotsidan för sidan som visas"
 
-#: ../libyelp/yelp-view.c:474
+#: ../libyelp/yelp-view.c:492
 msgid "Root Title"
 msgstr "Rottitel"
 
-#: ../libyelp/yelp-view.c:475
+#: ../libyelp/yelp-view.c:493
 msgid "The title of the root page of the page being viewed"
 msgstr "Titeln för rotsidan för sidan som visas"
 
-#: ../libyelp/yelp-view.c:483
+#: ../libyelp/yelp-view.c:501
 msgid "Page Title"
 msgstr "Sidtitel"
 
-#: ../libyelp/yelp-view.c:484
+#: ../libyelp/yelp-view.c:502
 msgid "The title of the page being viewed"
 msgstr "Titeln för sidan som visas"
 
-#: ../libyelp/yelp-view.c:492
+#: ../libyelp/yelp-view.c:510
 msgid "Page Description"
 msgstr "Sidbeskrivning"
 
-#: ../libyelp/yelp-view.c:493
+#: ../libyelp/yelp-view.c:511
 msgid "The description of the page being viewed"
 msgstr "Beskrivningen för sidan som visas"
 
-#: ../libyelp/yelp-view.c:501
+#: ../libyelp/yelp-view.c:519
 msgid "Page Icon"
 msgstr "Sidikon"
 
-#: ../libyelp/yelp-view.c:502
+#: ../libyelp/yelp-view.c:520
 msgid "The icon of the page being viewed"
 msgstr "Ikonen för sidan som visas"
 
-#: ../libyelp/yelp-view.c:744
+#: ../libyelp/yelp-view.c:782
 msgid "You do not have PackageKit. Package install links require PackageKit."
 msgstr ""
 "Du har inte PackageKit. Länkar för paketinstallationer kräver PackageKit."
 
-#: ../libyelp/yelp-view.c:1040
+#: ../libyelp/yelp-view.c:1078
 msgid "Save Image"
 msgstr "Spara bild"
 
-#: ../libyelp/yelp-view.c:1135
+#: ../libyelp/yelp-view.c:1173
 msgid "Save Code"
 msgstr "Spara källkod"
 
-#: ../libyelp/yelp-view.c:1298
+#: ../libyelp/yelp-view.c:1336
 #, c-format
 msgid "Send email to %s"
 msgstr "Skicka e-post till %s"
 
-#: ../libyelp/yelp-view.c:1313
+#: ../libyelp/yelp-view.c:1351
 msgid "_Install Packages"
 msgstr "_Installera paket"
 
-#: ../libyelp/yelp-view.c:1321
+#: ../libyelp/yelp-view.c:1359
 msgid "_Open Link"
 msgstr "_Öppna länk"
 
-#: ../libyelp/yelp-view.c:1328
+#: ../libyelp/yelp-view.c:1366
 msgid "_Copy Link Location"
 msgstr "_Kopiera länkplats"
 
-#: ../libyelp/yelp-view.c:1334
+#: ../libyelp/yelp-view.c:1372
 msgid "Open Link in New _Window"
 msgstr "Öppna länk i nytt _fönster"
 
-#: ../libyelp/yelp-view.c:1388
-#| msgid "_Save Image As..."
+#: ../libyelp/yelp-view.c:1426
 msgid "_Save Image As…"
 msgstr "_Spara bild som…"
 
-#: ../libyelp/yelp-view.c:1390
-#| msgid "_Save Video As..."
+#: ../libyelp/yelp-view.c:1428
 msgid "_Save Video As…"
 msgstr "_Spara video som…"
 
-#: ../libyelp/yelp-view.c:1397
-#| msgid "S_end Image To..."
+#: ../libyelp/yelp-view.c:1435
 msgid "S_end Image To…"
 msgstr "S_kicka bild till…"
 
-#: ../libyelp/yelp-view.c:1399
-#| msgid "S_end Video To..."
+#: ../libyelp/yelp-view.c:1437
 msgid "S_end Video To…"
 msgstr "S_kicka video till…"
 
-#: ../libyelp/yelp-view.c:1410
+#: ../libyelp/yelp-view.c:1448
 msgid "_Copy Text"
 msgstr "_Kopiera text"
 
-#: ../libyelp/yelp-view.c:1423
+#: ../libyelp/yelp-view.c:1461
 msgid "C_opy Code Block"
 msgstr "K_opiera källkodsblock"
 
-#: ../libyelp/yelp-view.c:1428
-#| msgid "Save Code _Block As..."
+#: ../libyelp/yelp-view.c:1466
 msgid "Save Code _Block As…"
 msgstr "Spara källkods_block som…"
 
-#: ../libyelp/yelp-view.c:1535
+#: ../libyelp/yelp-view.c:1572
 #, c-format
 msgid "See all search results for “%s”"
 msgstr "Se alla sökresultat för ”%s”"
 
-#: ../libyelp/yelp-view.c:1656
+#: ../libyelp/yelp-view.c:1718
 #, c-format
 msgid "Could not load a document for ‘%s’"
 msgstr "Kunde inte läsa in ett dokument för ”%s”"
 
-#: ../libyelp/yelp-view.c:1662
+#: ../libyelp/yelp-view.c:1724
 #, c-format
 msgid "Could not load a document"
 msgstr "Kunde inte läsa in ett dokument"
 
-#: ../libyelp/yelp-view.c:1737
+#: ../libyelp/yelp-view.c:1800
 msgid "Document Not Found"
 msgstr "Dokumentet hittades inte"
 
-#: ../libyelp/yelp-view.c:1739
+#: ../libyelp/yelp-view.c:1802
 msgid "Page Not Found"
 msgstr "Sidan hittades inte"
 
-#: ../libyelp/yelp-view.c:1742
+#: ../libyelp/yelp-view.c:1805
 msgid "Cannot Read"
 msgstr "Kan inte läsa"
 
-#: ../libyelp/yelp-view.c:1748
+#: ../libyelp/yelp-view.c:1811
 msgid "Unknown Error"
 msgstr "Okänt fel"
 
-#: ../libyelp/yelp-view.c:1768
+#: ../libyelp/yelp-view.c:1831
 msgid "Search for packages containing this document."
 msgstr "Sök efter paket som innehåller detta dokument."
 
-#: ../libyelp/yelp-view.c:1918
+#: ../libyelp/yelp-view.c:2003
 #, c-format
 msgid "The URI ‘%s’ does not point to a valid page."
 msgstr "URI:n ”%s” pekar inte på en giltig sida."
 
-#: ../libyelp/yelp-view.c:1924
+#: ../libyelp/yelp-view.c:2009
 #, c-format
 msgid "The URI does not point to a valid page."
 msgstr "URI:n pekar inte på en giltig sida."
 
-#: ../libyelp/yelp-view.c:1930
+#: ../libyelp/yelp-view.c:2015
 #, c-format
 msgid "The URI ‘%s’ could not be parsed."
 msgstr "URI:n ”%s” kunde inte tolkas."
@@ -411,41 +406,36 @@ msgstr "URI:n ”%s” kunde inte tolkas."
 msgid "Turn on editor mode"
 msgstr "Aktivera redigeringsläge"
 
-#: ../src/yelp-application.c:272 ../src/yelp-window.c:1144
+#: ../src/yelp-application.c:270 ../src/yelp-window.c:1163
 #: ../yelp.desktop.in.in.h:1
 msgid "Help"
 msgstr "Hjälp"
 
-#: ../src/yelp-application.c:322
-#| msgid "_New Window"
+#: ../src/yelp-application.c:320
 msgid "New Window"
 msgstr "Nytt fönster"
 
-#: ../src/yelp-application.c:326
-#| msgid "_Larger Text"
+#: ../src/yelp-application.c:324
 msgid "Larger Text"
 msgstr "Större text"
 
-#: ../src/yelp-application.c:327
-#| msgid "_Smaller Text"
+#: ../src/yelp-application.c:325
 msgid "Smaller Text"
 msgstr "Mindre text"
 
-#: ../src/yelp-window.c:206
+#: ../src/yelp-window.c:204
 msgid "Application"
 msgstr "Program"
 
-#: ../src/yelp-window.c:207
+#: ../src/yelp-window.c:205
 msgid "A YelpApplication instance that controls this window"
 msgstr "En YelpApplication-instans som kontrollerar detta fönster"
 
 #: ../src/yelp-window.c:323
-#| msgid "_Back"
 msgid "Back"
 msgstr "Bakåt"
 
 #: ../src/yelp-window.c:330
-#| msgid "_Forward"
 msgid "Forward"
 msgstr "Framåt"
 
@@ -454,7 +444,6 @@ msgid "Menu"
 msgstr "Meny"
 
 #: ../src/yelp-window.c:346
-#| msgid "Find:"
 msgid "Find…"
 msgstr "Sök…"
 
@@ -463,17 +452,14 @@ msgid "Print…"
 msgstr "Skriv ut…"
 
 #: ../src/yelp-window.c:352
-#| msgid "_Previous Page"
 msgid "Previous Page"
 msgstr "Föregående sida"
 
 #: ../src/yelp-window.c:353
-#| msgid "_Next Page"
 msgid "Next Page"
 msgstr "Nästa sida"
 
 #: ../src/yelp-window.c:358
-#| msgid "Help"
 msgid "All Help"
 msgstr "All hjälp"
 
@@ -482,17 +468,14 @@ msgid "Search (Ctrl+S)"
 msgstr "Sök (Ctrl+S)"
 
 #: ../src/yelp-window.c:414
-#| msgid "Bookmarks"
 msgid "No bookmarks"
 msgstr "Inga bokmärken"
 
 #: ../src/yelp-window.c:422
-#| msgid "_Add Bookmark"
 msgid "Add Bookmark"
 msgstr "Lägg till bokmärke"
 
 #: ../src/yelp-window.c:428
-#| msgid "_Remove Bookmark"
 msgid "Remove Bookmark"
 msgstr "Ta bort bokmärke"
 
@@ -503,6 +486,391 @@ msgstr "Få hjälp med GNOME"
 #: ../yelp.desktop.in.in.h:3
 msgid "documentation;information;manual;"
 msgstr "dokumentation;information;manual;handbok;"
+
+#, fuzzy
+msgid "Help Topics"
+msgstr "Hjálparvafri"
+
+#, fuzzy
+msgid "Internet"
+msgstr "Innihald hjálpar"
+
+msgid "KDE"
+msgstr "KDE"
+
+#, fuzzy
+msgid "Scientific"
+msgstr "Forrit"
+
+msgid "_Find: "
+msgstr "Leita:"
+
+msgid "_Next"
+msgstr "_Næsta"
+
+msgid "Yelp Factory"
+msgstr "Yelp Verksmiðjan"
+
+msgid "Define which cache directory to use"
+msgstr "Skilgreindu möppu sem nota á sem skyndiminni"
+
+msgid "Could not activate Yelp: '%s'"
+msgstr "Ekki tókst að virkja Yelp: '%s'"
+
+msgid "Could not open new window."
+msgstr "Ekki tókst að opna nýja glugga."
+
+#, fuzzy
+msgid "Could not load the OMF file '%s'."
+msgstr "Ekki tókst að virkja Yelp: '%s'"
+
+#, fuzzy
+msgid "_File"
+msgstr "/_Skrá"
+
+#, fuzzy
+msgid "_Edit"
+msgstr "/Sýs_l"
+
+#, fuzzy
+msgid "_Select All"
+msgstr "Sjá einnig"
+
+msgid "Show previous page in history"
+msgstr "Sýna fyrri síðu í ferilskrá"
+
+msgid "Show next page in history"
+msgstr "Sýna næstu síðu í ferilskrá"
+
+msgid "_Contents"
+msgstr "_Kontents"
+
+msgid "_About"
+msgstr "À_baut"
+
+msgid "Help Browser"
+msgstr "Help Brawsa"
+
+msgid "Find _Next"
+msgstr "Faind _Nèist"
+
+msgid "Find _Previous"
+msgstr "Faind _Priv"
+
+#  Note to translators: put here your name (and address) so it
+#  * will shop up in the "about" box
+#, fuzzy
+msgid "translator-credits"
+msgstr "Samúel Jón Gunnarsson <sammi@techattack.nu>"
+
+msgid "_Home"
+msgstr "_Hom"
+
+msgid "Go to home view"
+msgstr "Fara yfir í heima-sýn"
+
+msgid "Fin_d"
+msgstr "Fain_d"
+
+msgid "Games and Entertainment"
+msgstr "Leikir og skemmtun"
+
+msgid "General"
+msgstr "Jenerol"
+
+msgid "Utilities"
+msgstr "Yutilitis"
+
+msgid "*"
+msgstr "*"
+
+msgid "X11"
+msgstr "X11"
+
+msgid "OpenSSL"
+msgstr "OpenSSL"
+
+msgid "Termcap"
+msgstr "Termcap"
+
+msgid "Perl"
+msgstr "Perl"
+
+msgid "Qt"
+msgstr "Qt"
+
+msgid "TIFF"
+msgstr "TIFF"
+
+msgid "PThreads"
+msgstr "PThreads"
+
+msgid "Categories"
+msgstr "Flokkar"
+
+msgid "About This Article"
+msgstr "Um Þessa Grein"
+
+msgid "About This Chapter"
+msgstr "Um Þennan Kafla"
+
+msgid "About This Part"
+msgstr "Um Þennan Part"
+
+msgid "Article"
+msgstr "Artikol"
+
+msgid "Author"
+msgstr "Höfundur"
+
+msgid "Authors"
+msgstr "Höfundar"
+
+msgid "Chapter"
+msgstr "Kafli"
+
+msgid "Copyrights"
+msgstr "Höfundaréttir"
+
+msgid "Date"
+msgstr "Deit"
+
+msgid "Example"
+msgstr "Iksampol"
+
+msgid "Important"
+msgstr "Mikilvægt"
+
+msgid "Publisher"
+msgstr "Útgefandi"
+
+msgid "Publishers"
+msgstr "Útgefendur"
+
+msgid "Table"
+msgstr "Teibol"
+
+#, fuzzy
+msgid "Table of Contents"
+msgstr "Innihald hjálpar"
+
+msgid "Tip"
+msgstr "Ábending"
+
+msgid "Warning"
+msgstr "Aðvörun"
+
+#, fuzzy
+msgid "/Edit/Find Pre_vious"
+msgstr "/Sýsl/_Finna á ný"
+
+msgid "/Go/_Home"
+msgstr "/Fara/_Heim"
+
+#, fuzzy
+msgid "/Go/"
+msgstr "/Fa_ra"
+
+#, fuzzy
+msgid "/Go/_Contents"
+msgstr "Innihald hjálpar"
+
+msgid "A Help Browser for GNOME"
+msgstr "Hjálparvafri fyrir GNOME"
+
+#~ msgid "Configuration Files"
+#~ msgstr "Konfigurationsfiler"
+
+#~ msgid "Development"
+#~ msgstr "Utveckling"
+
+#~ msgid "Games"
+#~ msgstr "Spel"
+
+#~ msgid "Hardware Devices"
+#~ msgstr "Hårdvaruenheter"
+
+#~ msgid "Kernel Routines"
+#~ msgstr "Kärnrutiner"
+
+#, fuzzy
+#~ msgid "Library Functions"
+#~ msgstr "BLT-funktioner"
+
+#~ msgid "OpenSSL Applications"
+#~ msgstr "OpenSSL-program"
+
+#~ msgid "OpenSSL Configuration"
+#~ msgstr "Konfiguration av OpenSSL"
+
+#~ msgid "OpenSSL Overviews"
+#~ msgstr "Översikter av OpenSSL"
+
+#~ msgid "Overviews"
+#~ msgstr "Översikter"
+
+#~ msgid "Perl Functions"
+#~ msgstr "Perl-funktioner"
+
+#~ msgid "Qt Functions"
+#~ msgstr "Qt-funktioner"
+
+#~ msgid "System Administration"
+#~ msgstr "Systemadministration"
+
+#~ msgid "System Calls"
+#~ msgstr "Systemanrop"
+
+#~ msgid "Termcap Applications"
+#~ msgstr "Termcap-program"
+
+#~ msgid "X11 Applications"
+#~ msgstr "X11-program"
+
+#~ msgid "X11 Configuration"
+#~ msgstr "Konfiguration av X11"
+
+#~ msgid "X11 Functions"
+#~ msgstr "X11-funktioner"
+
+#~ msgid "X11 Games"
+#~ msgstr "X11-spel"
+
+#~ msgid "X11 Overviews"
+#~ msgstr "Översikter av X11"
+
+#, fuzzy
+#~ msgid "Applets"
+#~ msgstr "Program"
+
+#~ msgid "Desktop"
+#~ msgstr "Skrivbord"
+
+#, fuzzy
+#~ msgid "Education Applications"
+#~ msgstr "Termcap-program"
+
+#, fuzzy
+#~ msgid "Other Documentation"
+#~ msgstr "Öppna plats"
+
+#, fuzzy
+#~ msgid "System Tools"
+#~ msgstr "Systemanrop"
+
+#, fuzzy
+#~ msgid "X Applications"
+#~ msgstr "X11-program"
+
+#, fuzzy
+#~ msgid "<b>_Bookmarks:</b>"
+#~ msgstr "_Bokmärken"
+
+#, fuzzy
+#~ msgid "_Location:"
+#~ msgstr "Öppna plats"
+
+#, fuzzy
+#~ msgid "Could not read the table of contents"
+#~ msgstr "Kunde inte läsa in ett dokument"
+
+#, fuzzy
+#~ msgid "Help Contents"
+#~ msgstr "Alla hjälpdokument"
+
+#~ msgid "_Go"
+#~ msgstr "_Gå"
+
+#, fuzzy
+#~ msgid "_Help"
+#~ msgstr "Hjälp"
+
+#, fuzzy
+#~ msgid "About This Document"
+#~ msgstr "_Alla dokument"
+
+#, fuzzy
+#~ msgid "_Close Window"
+#~ msgstr "Nytt fönster"
+
+#, fuzzy
+#~ msgid "_Find..."
+#~ msgstr "Sök på sida…"
+
+#, fuzzy
+#~ msgid "_Previous Section"
+#~ msgstr "Föregående sida"
+
+#, fuzzy
+#~ msgid "_Next Section"
+#~ msgstr "Avsnitt 2"
+
+#, fuzzy
+#~ msgid "Find:"
+#~ msgstr "Sök…"
+
+#, fuzzy
+#~ msgid "Development Environments"
+#~ msgstr "Utveckling"
+
+#, fuzzy
+#~ msgid "Development Tools"
+#~ msgstr "Utveckling"
+
+#, fuzzy
+#~ msgid "Editors"
+#~ msgstr "Redigeringsläge"
+
+#, fuzzy
+#~ msgid "Internet Applications"
+#~ msgstr "OpenSSL-program"
+
+#, fuzzy
+#~ msgid "Kernels"
+#~ msgstr "Kärnrutiner"
+
+#, fuzzy
+#~ msgid "Multimedia Applications"
+#~ msgstr "Termcap-program"
+
+#, fuzzy
+#~ msgid "System"
+#~ msgstr "Systemanrop"
+
+#, fuzzy
+#~ msgid "The table of contents could not be read."
+#~ msgstr "URI:n ”%s” kunde inte tolkas."
+
+#, fuzzy
+#~ msgid "The selected file could not be read."
+#~ msgstr "URI:n ”%s” kunde inte tolkas."
+
+#, fuzzy
+#~ msgid "Affiliation"
+#~ msgstr "Program"
+
+#, fuzzy
+#~ msgid "Copyright"
+#~ msgstr "Kopiera"
+
+#, fuzzy
+#~ msgid "Dedication"
+#~ msgstr "Utbildning"
+
+#~ msgid "Email"
+#~ msgstr "E-post"
+
+#, fuzzy
+#~ msgid "Set Index"
+#~ msgstr "Indexerat"
+
+#, fuzzy
+#~ msgid "/Go/_Back"
+#~ msgstr "Bakåt"
+
+#, fuzzy
+#~ msgid "/Go/_Forward"
+#~ msgstr "Framåt"
 
 #~ msgid "Enable Search"
 #~ msgstr "Aktivera sökning"
@@ -543,23 +911,8 @@ msgstr "dokumentation;information;manual;handbok;"
 #~ msgid "_View"
 #~ msgstr "_Visa"
 
-#~ msgid "_Go"
-#~ msgstr "_Gå"
-
-#~ msgid "_Bookmarks"
-#~ msgstr "_Bokmärken"
-
 #~ msgid "_Close"
 #~ msgstr "S_täng"
-
-#~ msgid "_All Documents"
-#~ msgstr "_Alla dokument"
-
-#~ msgid "Find in Page..."
-#~ msgstr "Sök på sida…"
-
-#~ msgid "Open Location"
-#~ msgstr "Öppna plats"
 
 #~ msgid "Read Link _Later"
 #~ msgstr "Läs _länk senare"
@@ -590,17 +943,11 @@ msgstr "dokumentation;information;manual;handbok;"
 #~ msgid "Send a help link to a chat contact:"
 #~ msgstr "Skicka en hjälplänk till en chattkontakt:"
 
-#~ msgid "Email"
-#~ msgstr "E-post"
-
 #~ msgid "Send a help link to an email contact:"
 #~ msgstr "Skicka en hjälplänk till en e-postkontakt:"
 
 #~ msgid "Compose new email"
 #~ msgstr "Skriv nytt e-postmeddelande"
-
-#~ msgid "Copy"
-#~ msgstr "Kopiera"
 
 #~ msgid "Copy the help location to the clipboard:"
 #~ msgstr "Kopiera hjälpplatsen till urklipp:"
@@ -614,62 +961,23 @@ msgstr "dokumentation;information;manual;handbok;"
 #~ msgid "Traditional command line help (info)"
 #~ msgstr "Traditionell kommandoradshjälp (info)"
 
-#~ msgid "Applications"
-#~ msgstr "Program"
-
-#~ msgid "BLT Functions"
-#~ msgstr "BLT-funktioner"
-
-#~ msgid "Configuration Files"
-#~ msgstr "Konfigurationsfiler"
-
 #~ msgid "Curses Functions"
 #~ msgstr "Curses-funktioner"
-
-#~ msgid "Development"
-#~ msgstr "Utveckling"
 
 #~ msgid "FORTRAN Functions"
 #~ msgstr "FORTRAN-funktioner"
 
-#~ msgid "Games"
-#~ msgstr "Spel"
-
-#~ msgid "Hardware Devices"
-#~ msgstr "Hårdvaruenheter"
-
-#~ msgid "Kernel Routines"
-#~ msgstr "Kärnrutiner"
-
 #~ msgid "Network Audio Sound Functions"
 #~ msgstr "Nätverksljudfunktioner"
 
-#~ msgid "OpenSSL Applications"
-#~ msgstr "OpenSSL-program"
-
-#~ msgid "OpenSSL Configuration"
-#~ msgstr "Konfiguration av OpenSSL"
-
 #~ msgid "OpenSSL Functions"
 #~ msgstr "OpenSSL-funktioner"
-
-#~ msgid "OpenSSL Overviews"
-#~ msgstr "Översikter av OpenSSL"
-
-#~ msgid "Overviews"
-#~ msgstr "Översikter"
 
 #~ msgid "POSIX Functions"
 #~ msgstr "POSIX-funktioner"
 
 #~ msgid "POSIX Headers"
 #~ msgstr "POSIX-huvuden"
-
-#~ msgid "Perl Functions"
-#~ msgstr "Perl-funktioner"
-
-#~ msgid "Qt Functions"
-#~ msgstr "Qt-funktioner"
 
 #~ msgid "Readline Functions"
 #~ msgstr "Readline-funktioner"
@@ -685,9 +993,6 @@ msgstr "dokumentation;information;manual;handbok;"
 
 #~ msgid "Section 1x"
 #~ msgstr "Avsnitt 1x"
-
-#~ msgid "Section 2"
-#~ msgstr "Avsnitt 2"
 
 #~ msgid "Section 3blt"
 #~ msgstr "Avsnitt 3blt"
@@ -767,47 +1072,23 @@ msgstr "dokumentation;information;manual;handbok;"
 #~ msgid "Sections 8 and 8l"
 #~ msgstr "Avsnitten 8 och 8l"
 
-#~ msgid "System Administration"
-#~ msgstr "Systemadministration"
-
-#~ msgid "System Calls"
-#~ msgstr "Systemanrop"
-
 #~ msgid "System V Form/Menu Functions"
 #~ msgstr "System V Form/Menyfunktioner"
 
 #~ msgid "TIFF Functions"
-#~ msgstr "TIFF-funktioner"
-
-#~ msgid "Termcap Applications"
-#~ msgstr "Termcap-program"
+#~ msgstr "TIFF-fùnkçions"
 
 #~ msgid "Traditional command line help (man)"
-#~ msgstr "Traditionell kommandoradshjälp (man)"
-
-#~ msgid "X11 Applications"
-#~ msgstr "X11-program"
-
-#~ msgid "X11 Configuration"
-#~ msgstr "Konfiguration av X11"
+#~ msgstr "Tradiçionol kommand lain help (man)"
 
 #~ msgid "X11 Devices"
-#~ msgstr "X11-enheter"
-
-#~ msgid "X11 Functions"
-#~ msgstr "X11-funktioner"
-
-#~ msgid "X11 Games"
-#~ msgstr "X11-spel"
-
-#~ msgid "X11 Overviews"
-#~ msgstr "Översikter av X11"
+#~ msgstr "X11-Divaises"
 
 #~ msgid "2D Graphics"
-#~ msgstr "2D-grafik"
+#~ msgstr "2D-Grafiks"
 
 #~ msgid "3D Graphics"
-#~ msgstr "3D-grafik"
+#~ msgstr "3D-Grafiks"
 
 #~ msgid "Accessibility"
 #~ msgstr "Hjälpmedel"
@@ -846,7 +1127,7 @@ msgstr "dokumentation;information;manual;handbok;"
 #~ msgstr "Astronomi"
 
 #~ msgid "Biology"
-#~ msgstr "Biologi"
+#~ msgstr "Bioloji"
 
 #~ msgid "Blocks Games"
 #~ msgstr "Blockspel"
@@ -896,9 +1177,6 @@ msgstr "dokumentation;information;manual;handbok;"
 #~ msgid "Debuggers"
 #~ msgstr "Felsökning"
 
-#~ msgid "Desktop"
-#~ msgstr "Skrivbord"
-
 #~ msgid "Desktop Settings"
 #~ msgstr "Skrivbordsinställningar"
 
@@ -914,14 +1192,11 @@ msgstr "dokumentation;information;manual;handbok;"
 #~ msgid "Economy"
 #~ msgstr "Ekonomi"
 
-#~ msgid "Education"
-#~ msgstr "Utbildning"
-
 #~ msgid "Electricity"
 #~ msgstr "Elektricitet"
 
 #~ msgid "Electronics"
-#~ msgstr "Electronik"
+#~ msgstr "Elektroniks"
 
 #~ msgid "Emulator"
-#~ msgstr "Emulator"
+#~ msgstr "Emyuleita"
